@@ -1,8 +1,6 @@
-#include<stdio.h>
 
-int main(){
-    printf("adiiiii");
-    printf("rajjjjjj");
 
-    return 0;
+char * mergeAlternately(char * word1, char * word2){
+
 }
+
